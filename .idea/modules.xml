@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Uiframe0test/.idea/Uiframe0test.iml" filepath="D:/Uiframe0test/.idea/Uiframe0test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../automation_test/.idea/automation_test.iml" filepath="$PROJECT_DIR$/../automation_test/.idea/automation_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../port_automation/.idea/port_automation.iml" filepath="$PROJECT_DIR$/../port_automation/.idea/port_automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python_xuefeng.iml" filepath="$PROJECT_DIR$/.idea/python_xuefeng.iml" />
+      <module fileurl="file://D:/uiFramePO/.idea/uiFrame.iml" filepath="D:/uiFramePO/.idea/uiFrame.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mysql_1019/.idea/mysql_1019.iml" filepath="$PROJECT_DIR$/../mysql_1019/.idea/mysql_1019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_xuefeng/package_1018/.idea/package_1018.iml" filepath="$PROJECT_DIR$/../python_xuefeng/package_1018/.idea/package_1018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythoncxf.iml" filepath="$PROJECT_DIR$/.idea/pythoncxf.iml" />
+    </modules>
+  </component>
+</project>
