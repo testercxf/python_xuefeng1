@@ -1,8 +1,9 @@
 import  pymysql
+from mysql_1019.info  import *
 
 #打开数据库连接
 #localhost本地连接
-conn = pymysql.connect(host="localhost",user="root",password="111400cxf",port=3306)
+conn = pymysql.connect(host="localhost",user=user,password=password,port=port)
 #使用cursor()方法创建一个游标对象cursor
 result = conn.cursor()                    #创建一个窗体命令行
 
@@ -13,7 +14,7 @@ result.execute("show databases")
 data = result.fetchall()
 print(data)
 
-result.execute("create database mengxiang")       #执行SQL语句，创建一个名为xuefeng3的数据库
+result.execute("create database xuefeng")       #执行SQL语句，创建一个名为xuefeng3的数据库
 
 result.execute("show databases")
 data = result.fetchall()
